@@ -9,6 +9,6 @@ public class Main {
 //        }
 
     Cadastro c = new Cadastro();
-    c.inserirPessoa("Gustavo", "gusta@gmail.com");
+    c.inserirPessoa("Jair", "jair@gmail.com", "1234");
     }
 }
